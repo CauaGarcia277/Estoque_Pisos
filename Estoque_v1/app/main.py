@@ -1,8 +1,8 @@
-from Estoque_v1.app.crud import create
-from Estoque_v1.app.crud import read
-from Estoque_v1.app.crud import delete
-import Estoque_v1.app.crud as crud
-import Estoque_v1.app.func as func
+from crud import create
+from crud import read
+from crud import delete
+import crud as crud
+import func as func
 
 
 while True:

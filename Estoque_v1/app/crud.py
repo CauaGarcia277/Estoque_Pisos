@@ -1,4 +1,4 @@
-from Estoque_v1.app.db import conectar
+from db import conectar
 
 #Adicionar pisos
 def create(dados):
