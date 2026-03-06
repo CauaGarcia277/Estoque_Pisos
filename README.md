@@ -20,6 +20,9 @@ O Estoque_v1 foi implementado um CRUD simples em Python (Insert, Delete, Select 
 
     
     Melhorias futuras
-        Para o Estoque_v2 terá uma separação correta em cada setor do CRUD, visando deixar o código mais claro e de facil manutenção. Melhoria no código do banco de dados, pois o banco de dados foi criado manualmente e agora com estudos recentes da faculdade será reformulado por código para melhor entendimento. Terá a validação de ID, chaves primárias e secundarias.
+        Para o Estoque_v2 terá uma separação correta em cada setor do CRUD, visando deixar o código mais claro
+        e de facil manutenção. Melhoria no código do banco de dados, pois o banco de dados foi criado
+        manualmente e agora com estudos recentes da faculdade será reformulado por código para melhor
+        entendimento. Terá a validação de ID, chaves primárias e secundarias.
 
 
