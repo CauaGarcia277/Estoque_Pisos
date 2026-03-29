@@ -1,5 +1,7 @@
+!!! Esse sistema é apenas para introdução ao github e aprendizado da plataforma
+
 # Estoque De Pisos
-Sistema para estoque de pisos com CRUD simples, utilizando a linguaguem Python e banco de dados MySQL, é um projeto academico pessoal para estudo e treinamento. O sistema consiste em gerenciar um estoque de pisos e suas especificações, será possivel saber quantos pisos tem no estoque e quais foram vendidos em respectivos dias, dashboards utilizando PowerBI para melhor vizualização dos dados, utilização de IA regressiva para previsão simples de quais dias o estoque pode acabar
+Sistema para estoque de pisos com CRUD simples, utilizando a linguaguem Python e banco de dados MySQL, é um projeto academico pessoal para estudo e treinamento. O sistema consiste em gerenciar um estoque de pisos e suas especificações
 
 # Estoque_v1
 O Estoque_v1 foi implementado um CRUD simples em Python (Insert, Delete, Select e Rename), definindo o banco de dados e pequenas regras para o funcionamento do esqueleto do projeto
